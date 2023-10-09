@@ -45,7 +45,7 @@ function init() {
                 default:
                     break;
             }
-            fs.writeFile('./examples/logo.svg', svg.render(), (err) =>
+            fs.writeFile('./output/logo.svg', svg.render(), (err) =>
                err ? console.error(err) : console.log('Generated logo.svg'))
         })
         .catch((err) => 
