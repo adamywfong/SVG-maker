@@ -4,7 +4,7 @@
 
 This is a Node.js command-line application designed to make an SVG logo using prompts via inquirer.js.  The application prompts the user to provide text and shape for the logo, provide colors for both the color and the shape, then saves the generated SVG to a `.svg` file.  
 
-[![Video Demonstration of Application](./examples/example-svg.gif)](https://watch.screencastify.com/v/04yzqIrAVwyeLY7Lhmtl)
+[![Video Demonstration of Application](./examples/example-svg.gif)](https://watch.screencastify.com/v/d31LQm7C1W8RguWhpHHC)
 
 [Example logo](./examples/logo.svg)
 
